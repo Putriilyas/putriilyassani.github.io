@@ -444,6 +444,8 @@ h6 {
   height: 100vh;
   background: url("../img/portfolio/A5.png") top right;
   background-size: cover;
+  background-repeat: no-repeat, no-repeat;
+  background-position:center;
 }
 
 #hero .container {
